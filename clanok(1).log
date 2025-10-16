@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.9)  16 OCT 2025 23:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.9)  17 OCT 2025 00:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -252,6 +252,101 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip51
 )
+(C:\Users\yawor\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2025/06/16 v2.17y AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\yawor\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+
+(C:\Users\yawor\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen156
+))
+(C:\Users\yawor\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen157
+)
+(C:\Users\yawor\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count298
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count299
+\leftroot@=\count300
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count301
+\DOTSCASE@=\count302
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen158
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count303
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count304
+\dotsspace@=\muskip18
+\c@parentequation=\count305
+\dspbrk@lvl=\count306
+\tag@help=\toks21
+\row@=\count307
+\column@=\count308
+\maxfields@=\count309
+\andhelp@=\toks22
+\eqnshift@=\dimen159
+\alignsep@=\dimen160
+\tagshift@=\dimen161
+\tagwidth@=\dimen162
+\totwidth@=\dimen163
+\lineht@=\dimen164
+\@envbody=\toks23
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2949.
+LaTeX Info: Redefining \] on input line 2950.
+)
+(C:\Users\yawor\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count310
+\lst@gtempboxa=\box55
+\lst@token=\toks25
+\lst@length=\count311
+\lst@currlwidth=\dimen165
+\lst@column=\count312
+\lst@pos=\count313
+\lst@lostspace=\dimen166
+\lst@width=\dimen167
+\lst@newlines=\count314
+\lst@lineno=\count315
+\lst@maxwidth=\dimen168
+
+(C:\Users\yawor\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
+File: lstpatch.sty 2024/09/23 1.10c (Carsten Heinz)
+)
+(C:\Users\yawor\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
+\c@lstnumber=\count316
+\lst@skipnumbers=\count317
+\lst@framebox=\box56
+)
+(C:\Users\yawor\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2024/09/23 1.10c listings configuration
+))
+Package: listings 2024/09/23 1.10c (Carsten Heinz)
 (C:\Users\yawor\AppData\Local\Programs\MiKTeX\tex/latex/cite\cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
@@ -260,48 +355,47 @@ Package: cite 2015/02/27  v 5.5
 (C:\Users\yawor\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count298
-) (clanok(1).aux
-Package babel Info: 'slovak' activates 'slovak' shorthands.
-(babel)             Reported on input line 11.
-)
+\l__color_backend_stack_int=\count318
+) (clanok(1).aux)
 \openout1 = `clanok(1).aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for IL2/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for IL2/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+Package babel Info: 'slovak' activates 'slovak' shorthands.
+(babel)             Reported on input line 31.
 
 (C:\Users\yawor\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count299
-\scratchdimen=\dimen156
-\scratchbox=\box53
-\nofMPsegments=\count300
-\nofMParguments=\count301
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count302
-\MPscratchDim=\dimen157
-\MPnumerator=\count303
-\makeMPintoPDFobject=\count304
-\everyMPtoPDFconversion=\toks21
+\scratchcounter=\count319
+\scratchdimen=\dimen169
+\scratchbox=\box57
+\nofMPsegments=\count320
+\nofMParguments=\count321
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count322
+\MPscratchDim=\dimen170
+\MPnumerator=\count323
+\makeMPintoPDFobject=\count324
+\everyMPtoPDFconversion=\toks27
 )
 (C:\Users\yawor\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -313,84 +407,106 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 30.
+Package hyperref Info: Link coloring OFF on input line 31.
  (clanok(1).out) (clanok(1).out)
 \@outlinefile=\write3
 \openout3 = `clanok(1).out'.
 
+\c@lstlisting=\count325
 LaTeX Font Info:    Trying to load font information for IL2+cmss on input line 
-33.
+34.
 
 (C:\Users\yawor\AppData\Local\Programs\MiKTeX\tex/cslatex/base\il2cmss.fd
 File: il2cmss.fd 1997/02/13 CsLaTeX font definitions
 )
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 33.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 33.
 LaTeX Font Info:    Trying to load font information for IL2+cmtt on input line 
-33.
+34.
 
 (C:\Users\yawor\AppData\Local\Programs\MiKTeX\tex/cslatex/base\il2cmtt.fd
 File: il2cmtt.fd 1997/08/20 CSLaTeX font definitions
 )
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 33.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 33.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 33.
+
+pdfTeX warning: miktex-pdftex.exe (file ./diagrama1.pdf): PDF inclusion: found 
+PDF version <1.7>, but at most version <1.5> allowed
+<diagrama1.pdf, id=3, 436.63126pt x 150.5625pt>
+File: diagrama1.pdf Graphic file (type pdf)
+<use diagrama1.pdf>
+Package pdftex.def Info: diagrama1.pdf  used on input line 44.
+(pdftex.def)             Requested size: 225.48038pt x 77.75075pt.
+
+LaTeX Warning: Reference `nejaka' on page 1 undefined on input line 58.
+
+
+LaTeX Warning: Reference `dolezita' on page 1 undefined on input line 59.
+
+
+LaTeX Warning: Reference `dolezitejsia' on page 1 undefined on input line 59.
+
+
+LaTeX Warning: Reference `zaver' on page 1 undefined on input line 60.
+
+
 
 (novy.tex)
 
-pdfTeX warning: miktex-pdftex.exe (file ./diagrama1-crop.pdf): PDF inclusion: f
-ound PDF version <1.7>, but at most version <1.5> allowed
-<diagrama1-crop.pdf, id=46, 437.635pt x 150.5625pt>
-File: diagrama1-crop.pdf Graphic file (type pdf)
-<use diagrama1-crop.pdf>
-Package pdftex.def Info: diagrama1-crop.pdf  used on input line 53.
-(pdftex.def)             Requested size: 437.63393pt x 150.56212pt.
+pdfTeX warning: miktex-pdftex.exe (file ./diagrama2.pdf): PDF inclusion: found 
+PDF version <1.7>, but at most version <1.5> allowed
+<diagrama2.pdf, id=4, 353.82187pt x 218.31563pt>
+File: diagrama2.pdf Graphic file (type pdf)
+<use diagrama2.pdf>
+Package pdftex.def Info: diagrama2.pdf  used on input line 71.
+(pdftex.def)             Requested size: 225.48038pt x 139.12856pt.
+
+
+pdfTeX warning: miktex-pdftex.exe (file ./fn-crop.pdf): PDF inclusion: found PD
+F version <1.7>, but at most version <1.5> allowed
+<fn-crop.pdf, id=5, 598.235pt x 130.4875pt>
+File: fn-crop.pdf Graphic file (type pdf)
+<use fn-crop.pdf>
+Package pdftex.def Info: fn-crop.pdf  used on input line 89.
+(pdftex.def)             Requested size: 225.48038pt x 49.18156pt.
+
+Overfull \hbox (10.05666pt too wide) in paragraph at lines 88--91
+[][] 
+ []
+
+
+LaTeX Warning: Reference `f:rozhod' on page 1 undefined on input line 92.
+
+
+LaTeX Warning: Reference `ina:nejake' on page 1 undefined on input line 106.
+
+
+LaTeX Warning: Reference `ina:nejake' on page 1 undefined on input line 106.
+
 
 
 [1
 
-{C:/Users/yawor/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+{C:/Users/yawor/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./diagrama1.
+pdf> <./diagrama2.pdf> <./fn-crop.pdf>]
 
-pdfTeX warning: miktex-pdftex.exe (file ./diagrama2-crop.pdf): PDF inclusion: f
-ound PDF version <1.7>, but at most version <1.5> allowed
-<diagrama2-crop.pdf, id=64, 354.32375pt x 218.8175pt>
-File: diagrama2-crop.pdf Graphic file (type pdf)
-<use diagrama2-crop.pdf>
-Package pdftex.def Info: diagrama2-crop.pdf  used on input line 55.
-(pdftex.def)             Requested size: 354.32288pt x 218.81696pt.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 73.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Citation `Coplien:MPD' on page 2 undefined on input line 108.
 
 
-
-Package babel Info: 'slovak' activates 'slovak' shorthands.
-(babel)             Reported on input line 75.
-[2 <./diagrama1-crop.pdf> <./diagrama2-crop.pdf>]
-
-LaTeX Warning: Citation `Coplien:MPD' on page 3 undefined on input line 75.
+LaTeX Warning: Citation `Czarnecki:Staged' on page 2 undefined on input line 10
+8.
 
 
-LaTeX Warning: Citation `Czarnecki:Staged' on page 3 undefined on input line 75
-.
+LaTeX Warning: Citation `Czarnecki:Progress' on page 2 undefined on input line 
+108.
 
 
-LaTeX Warning: Citation `Czarnecki:Progress' on page 3 undefined on input line 
-75.
-
-
-LaTeX Warning: Citation `PLP-Framework' on page 3 undefined on input line 75.
+LaTeX Warning: Citation `PLP-Framework' on page 2 undefined on input line 108.
 
 No file clanok(1).bbl.
 
 
-[3] (clanok(1).aux)
+
+
+Package babel Info: 'slovak' activates 'slovak' shorthands.
+(babel)             Reported on input line 163.
+[2] (clanok(1).aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
@@ -402,41 +518,48 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package rerunfilecheck Info: File `clanok(1).out' has not changed.
-(rerunfilecheck)             Checksum: 04EC1173E49DA83CACF0C73A03E3808D;1139.
+
+Package rerunfilecheck Warning: File `clanok(1).out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `clanok(1).out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  04EC1173E49DA83CACF0C73A03E3808D;1139.
  ) 
 Here is how much of TeX's memory you used:
- 10347 strings out of 468130
- 163707 string characters out of 5430633
- 578834 words of memory out of 5000000
- 38817 multiletter control sequences out of 15000+600000
- 640621 words of font info for 72 fonts, out of 8000000 for 9000
+ 12415 strings out of 468130
+ 193004 string characters out of 5430633
+ 617158 words of memory out of 5000000
+ 40855 multiletter control sequences out of 15000+600000
+ 640826 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,79p,380b,507s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,8n,79p,380b,514s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\yawor\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\c
 sr6.pk> <C:\Users\yawor\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600
 \tcrm1000.pk> <C:\Users\yawor\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfon
 ts/dpi600\csti10.pk> <C:\Users\yawor\AppData\Local\MiKTeX\fonts/pk/ljfour/publi
-c/csfonts/dpi600\csbx10.pk> <C:\Users\yawor\AppData\Local\MiKTeX\fonts/pk/ljfou
-r/public/csfonts/dpi600\csr7.pk> <C:\Users\yawor\AppData\Local\MiKTeX\fonts/pk/
-ljfour/public/csfonts/dpi600\cstt10.pk> <C:\Users\yawor\AppData\Local\MiKTeX\fo
-nts/pk/ljfour/public/csfonts/dpi600\cssl10.pk> <C:\Users\yawor\AppData\Local\Mi
+c/csfonts/dpi600\csr7.pk> <C:\Users\yawor\AppData\Local\MiKTeX\fonts/pk/ljfour/
+public/csfonts/dpi600\cstt10.pk> <C:\Users\yawor\AppData\Local\MiKTeX\fonts/pk/
+ljfour/public/csfonts/dpi600\cssl10.pk> <C:\Users\yawor\AppData\Local\MiKTeX\fo
+nts/pk/ljfour/public/csfonts/dpi600\csbx10.pk> <C:\Users\yawor\AppData\Local\Mi
 KTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr8.pk> <C:\Users\yawor\AppData\Loc
 al\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\yawor\AppDa
 ta\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr10.pk> <C:\Users\yawor
 \AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx12.pk> <C:\User
-s\yawor\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr9.pk> <C:
-\Users\yawor\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx9.p
-k> <C:\Users\yawor\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\c
-sss10.pk> <C:\Users\yawor\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/d
-pi600\cstt9.pk> <C:\Users\yawor\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csf
-onts/dpi600\csss9.pk> <C:\Users\yawor\AppData\Local\MiKTeX\fonts/pk/ljfour/publ
-ic/csfonts/dpi600\csss12.pk> <C:\Users\yawor\AppData\Local\MiKTeX\fonts/pk/ljfo
-ur/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\yawor\AppData\Local\MiKTeX\fonts/p
-k/ljfour/public/csfonts/dpi600\csss17.pk>
-Output written on clanok(1).pdf (3 pages, 137436 bytes).
+s\yawor\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csss10.pk> <
+C:\Users\yawor\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt9
+.pk> <C:\Users\yawor\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600
+\csss9.pk> <C:\Users\yawor\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/
+dpi600\csss12.pk> <C:\Users\yawor\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen
+/ec/dpi600\tcrm1200.pk> <C:\Users\yawor\AppData\Local\MiKTeX\fonts/pk/ljfour/pu
+blic/csfonts/dpi600\csss17.pk><C:/Users/yawor/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/yawor/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/yawor/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on clanok(1).pdf (2 pages, 162059 bytes).
 PDF statistics:
- 455 PDF objects out of 1000 (max. 8388607)
- 20 named destinations out of 1000 (max. 500000)
- 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 412 PDF objects out of 1000 (max. 8388607)
+ 22 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
